@@ -1,5 +1,4 @@
-// Here is the link to my solution on leet code.
-// https://leetcode.com/problems/detect-capital/solutions/2984367/simple-java-1ms-beats-100-easy-to-understand/
+
 
 public class Detect_Capital {
     public static void main(String[] args) {
