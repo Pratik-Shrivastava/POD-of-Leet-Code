@@ -1,5 +1,6 @@
 
-
+// Here is the link to my solution on leet code.
+// https://leetcode.com/problems/word-pattern/solutions/2981104/java-beats-100-runtime-easy-to-understand/
 
 
 import java.util.HashMap;
