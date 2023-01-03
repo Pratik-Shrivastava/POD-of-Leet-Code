@@ -4,7 +4,7 @@
 public class Detect_Capital {
     public static void main(String[] args) {
 
-        String word = "aaa";
+        String word = "aa";
         System.out.println(detectCapitalUse(word));
     }
     static boolean detectCapitalUse(String word) {
