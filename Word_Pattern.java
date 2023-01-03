@@ -9,7 +9,7 @@ import java.util.HashMap;
 public class Word_Pattern {
     public static void main(String[] args) {
 
-        String pattern = "aba", s = "cat cat cat dog";
+        String pattern = "aba", s = "cat cat dog";
 
         System.out.println(wordPattern(pattern, s));
 
