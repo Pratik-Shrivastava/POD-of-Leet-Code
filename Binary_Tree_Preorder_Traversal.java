@@ -2,8 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
  class TreeNode {
     int val;
-    TreeNode left;
+    
      TreeNode right;
+     TreeNode left;
      TreeNode() {}
      TreeNode(int val) { this.val = val; }
       TreeNode(int val, TreeNode left, TreeNode right) {
